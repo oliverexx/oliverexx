@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Oliver from Arg<br><br>- 🔭 I’m working as a pentester<br>- 📚 I'm currently learning English <br>- ⚡ In my free time I solve CTFs and create write-ups</p>
+<p align="left">I'm Oliver<br><br>- 🔭 I’m working as a pentester<br>- 📚 I'm currently learning English <br>- ⚡ In my free time I solve CTFs and create write-ups</p>
 
 ###
 
@@ -35,7 +35,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/python.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
