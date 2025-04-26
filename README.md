@@ -35,7 +35,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/.github/workflows/snake.svg alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/oliverexx/oliverexx/output/dist/snake.svg" alt="Snake animation" />
 
 ###
 ###
