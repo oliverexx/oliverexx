@@ -31,10 +31,14 @@
 
 <div align="left">
 
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="https://www.linkedin.com/in/axel-tear/" target="_blank"> 
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+<a href="https://www.linkedin.com/in/axel-tear/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
+</a>
+<a href="https://axeltear.gitbook.io/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=GitBook&logo=gitbook&label=&color=7B42F6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitbook logo" />
+</a>
+
 </div>
 
 ###
