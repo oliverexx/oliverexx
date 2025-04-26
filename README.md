@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Oliver from Arg<br><br>- 🔭 I’m working as a pentester<br>- 📚 I'm currently learning English <br>- ⚡ In my free time I solve CTFs and create write-ups</p>
 
 ###
 
